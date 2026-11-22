@@ -11,7 +11,7 @@ CASES = [
     ("faction_color", (1, 2)),
     ("gap_fill", ([1, 2, 3],)),
     ("width_scale", (2.0, 720, 1440)),
-    ("depth_write_off", (1)),
+    ("depth_write_off", (1,)),
     ("normal_threshold", (0.3, 0.9)),
     ("outline_color", (0.2, 0.4)),
     ("edge_dilate", ([0, 1, 0], 1)),
